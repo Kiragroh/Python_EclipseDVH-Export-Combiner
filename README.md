@@ -8,3 +8,5 @@ Nobody likes the Eclipse DVH-Export. The format is not nice for further processi
 The provided Python-Script can combine all exports in the same folder and build one CSV with all the data und one CSV with specific OARs.
 
 Note: The script is only compatible with english DVH-exports. The export has the language of the Eclipse-user that exported.
+
+Disclaimer: I found the original code here (I made minor changes): https://github.com/robmarkcole/Useful-python-for-medical-physics
